@@ -11,3 +11,7 @@ function lastImageSelector() {
 function ninjaBabySelector() {
   return $('#ninjaBabySelector');
 }
+
+function divSelector() {
+  return $('.pics');
+}
