@@ -9,7 +9,7 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  return $('img #ninjaBabySelector');
+  return $('#ninjaBabySelector');
 }
 
 function divSelector() {
